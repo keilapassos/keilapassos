@@ -1,5 +1,5 @@
 <div>
-<img src="./dev-keila-cover" />
+<img src="./dev-keila-cover.png" />
 </div>
 
 ### Hi there 👋
